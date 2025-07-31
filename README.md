@@ -2,7 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello" align="center"/>
 
 # What Drives Me 🎯
-> "It's not the years in your life that count. It's the life in your years!"
+> "Craving the life full of advetures and fantasies that keeps the thrill with kindness"
 
 - I love being part of causes that make a real impact.
 - Satisfaction is the happiness we bring to others.
