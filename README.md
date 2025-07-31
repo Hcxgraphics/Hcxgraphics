@@ -1,4 +1,4 @@
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/c9d14275-7de9-43a0-b19c-bfbacfe80f4d" />## What Drives Me 🎯
+<img width="480" height="480" alt="image" src="(https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM5NjI3MTksIm5iZiI6MTc1Mzk2MjQxOSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDExNDY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0MmI5NjQxNmU4NTFmY2FkZGE1MDE1NjdhYmViMjFhNDdjNjUwMDE2NGQzM2ViZjJiMmRlOTIwYWU1OWMyZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QdBhPrRdpRaRfHTZ6AImkcEEcKxEnpzt7aLDQcANUxs)" />## What Drives Me 🎯
 ```yaml
 It's not the years in your life that counts. It is the life in your years!
 ```
@@ -27,9 +27,9 @@ It's not the years in your life that counts. It is the life in your years!
 ![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![HTML](<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/3e82e7b2-27b2-4f87-b648-3b5fc2c557b7" />
-![CSS](<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/aefe5351-5139-433f-bf1d-4cbda28f8ed6" />
-![ReactJs]<img width="200" height="202" alt="image" src="https://github.com/user-attachments/assets/3d7338a3-7129-443d-b3a3-1088a83f6257" />
+![HTML](https://github.com/user-attachments/assets/3e82e7b2-27b2-4f87-b648-3b5fc2c557b7)
+![CSS](https://github.com/user-attachments/assets/aefe5351-5139-433f-bf1d-4cbda28f8ed6)
+![ReactJs](https://github.com/user-attachments/assets/3d7338a3-7129-443d-b3a3-1088a83f6257)
 
 
 
