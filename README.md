@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello" align="centre"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello" align="center"/>
 
 # What Drives Me 🎯
 > "It's not the years in your life that count. It's the life in your years!"
@@ -13,6 +13,10 @@
 # 📖 About Me
 
 <img width="400" alt="Side" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" />
+
+
+  This is **HARSHADA CHANDEL** ❤️
+
 
 - 🖥️ AIML Enthusiast & Designer at heart
 - 💼 Founder & CEO — [Elumina Street Solutions](https://elumina-streetsolutions.netlify.app/)
@@ -48,3 +52,8 @@
 
 [<img width="40" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" align="center" />](https://www.linkedin.com/in/harshadachandel/)
 [<img width="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" align="center" />](mailto:hcxgraphics@gmail.com)
+
+---
+## BBYEE!
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500" align="center">
+<br><br>
