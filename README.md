@@ -19,9 +19,8 @@
 
 
 - 🖥️ AIML Enthusiast & Designer at heart
-- 💼 Founder & CEO — [Elumina Street Solutions](https://elumina-streetsolutions.netlify.app/)
-- ⚡ Projects at the intersection of technology, design, and management
-- 🎓 Former Research Intern, **IIT,Delhi**
+- ⚡ Projects at the intersection of AI , design, and management
+- 🎓 Former Research Intern, **IIT,Delhi** & **IIIT Hyderabad**  
 - 🎓 BTech in CSE AIML from **Manipal University Jaipur** (Top 3% of the batch — Dean's List)
 
 ---
